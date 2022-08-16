@@ -13,5 +13,7 @@ docker run -p 5000:5000 -d app:flask --- binding ports and keep docker container
 ### To stop -
 docker stop eb499afbb6ab ( pid from last command)
 
+[video](https://www.youtube.com/watch?v=N0RvyBeyoTk)
+
 
 
